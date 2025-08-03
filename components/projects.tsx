@@ -39,8 +39,8 @@ const projects = [
       "RESTful API design and JWT implementation",
       "File upload and management with cloud services",
     ],
-    github: "https://github.com/vinaydev19",
-    demo: "https://fusion-erp-demo.vercel.app", // Add your actual demo link here
+    github: "https://github.com/vinaydev19/fusion-ERP-Project",
+    demo: "https://fusion-erp-project.vercel.app", // Add your actual demo link here
     category: "Full-Stack",
   },
   {
@@ -74,8 +74,8 @@ const projects = [
       "User authentication best practices",
       "Database optimization techniques",
     ],
-    github: "https://github.com/vinaydev19",
-    demo: "https://twitter-clone-demo.vercel.app", // Add your actual demo link here
+    github: "https://github.com/vinaydev19/twitter-clone",
+    demo: "https://twitter-clone-murex-five.vercel.app", // Add your actual demo link here
     category: "Full-Stack",
   },
 ];
