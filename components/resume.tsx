@@ -44,7 +44,7 @@ const contactInfo = [
 export default function Resume() {
   const handleDownload = () => {
     // Open your Google Drive resume link in a new tab
-    window.open("https://drive.google.com/file/d/1KTjU5CWMa3tEzd73QfrmqL7s5MLhva34/view?usp=sharing", "_blank")
+    window.open("https://drive.google.com/file/d/1768PslzIaaD5yMHP1XIv_nRYBptQBx_f/view?usp=sharing", "_blank")
   }
 
   return (
